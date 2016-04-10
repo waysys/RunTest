@@ -1,0 +1,1 @@
+wsimport http://localhost:8080/cc/ws/unittestcase/RunTest?WSDL -s .

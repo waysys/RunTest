@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="RunTest/runtest.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/RunTest/runtest.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=RunTest/src&lt;com.waysysweb.runtest{RunTestMain.java[RunTestMain" manifestLocation="/RunTest/RunTestManifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/RunTest/.project"/>
+        <file path="/RunTest/.classpath"/>
+        <javaElement handleIdentifier="=RunTest/src"/>
+    </selectedElements>
+</jardesc>

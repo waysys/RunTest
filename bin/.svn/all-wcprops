@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/universal/!svn/ver/36/trunk/RunTest/src
+END
+runtest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/universal/!svn/ver/36/trunk/RunTest/src/runtest.properties
+END
+notestsuite.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/universal/!svn/ver/36/trunk/RunTest/src/notestsuite.properties
+END
+pcruntest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/universal/!svn/ver/36/trunk/RunTest/src/pcruntest.properties
+END
+RunTestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/universal/!svn/ver/36/trunk/RunTest/src/RunTestTest.java
+END
+noreports.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/universal/!svn/ver/36/trunk/RunTest/src/noreports.properties
+END
+conv.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/universal/!svn/ver/36/trunk/RunTest/src/conv.cmd
+END
+no.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/universal/!svn/ver/36/trunk/RunTest/src/no.properties
+END
+nourl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/universal/!svn/ver/36/trunk/RunTest/src/nourl.properties
+END

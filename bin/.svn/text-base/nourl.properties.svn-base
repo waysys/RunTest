@@ -1,0 +1,22 @@
+#------------------------------------------------------------------------------
+#  RunTest Properties File
+#------------------------------------------------------------------------------
+#
+#  Copyright (c) 2011 Waysys, LLC. All Rights Reserved.
+#
+#  This file is used to test the RunTest program.  The URL is commented out.
+#
+#------------------------------------------------------------------------------
+
+# Set the URL for the Guidewire product.  Do not end the URL with a /.  
+# Uncomment only one of the below.
+#url=http://localhost:8080/cc
+#url=http://localhost:8180/pc/PolicyCenter.do
+#url=http://localhost:8580/bc/BillingCenter.do
+
+# Set the default directory for the test suite
+testsuite=unittestcase.SampleTestCase
+
+# Set the default directory for the GFIT reports
+reports=/proj/coverage/report.txt
+

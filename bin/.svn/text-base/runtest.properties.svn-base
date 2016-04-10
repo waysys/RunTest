@@ -1,0 +1,23 @@
+#------------------------------------------------------------------------------
+#  RunTest Properties File
+#------------------------------------------------------------------------------
+#
+#  Copyright (c) 2011, 2012 Waysys, LLC. All Rights Reserved.
+#
+#  This file is used to set default properties for the RunTest program.
+#
+#------------------------------------------------------------------------------
+
+# Set the URL for the Guidewire product web service.  Do not end the URL with a /.
+# The URLs below have the values of the products out of the box.  
+# URLs for your implementation may be different.  
+# Uncomment only one of these.
+url=http://localhost:8080/cc
+#url=http://localhost:8180/pc
+#url=http://localhost:8580/bc
+
+# Set the default test suite
+testsuite=unittestcase.SampleTestSuite
+
+# Set the default file for the test reports
+reports=/proj/coverage/report.txt
